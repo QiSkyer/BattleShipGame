@@ -103,7 +103,7 @@ namespace Курсовкой
         bool VerticalStrategy;
         bool HorizontalStrategy;
 
-        //_____________________________________________
+        //____________________________________________
 
         public MainWindow()
         {
